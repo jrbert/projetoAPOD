@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://now.northropgrumman.com/wp-content/uploads/2020/09/deepspace-scaled.jpg);
+    background-size:cover;background-repeat:no-repeat; 
+    background-size: cover
+}
+.caixa{
+    font-family: monospace;
+    display: inline-block;
+    align-content: center;
+    margin: 0 auto;
+    top: 25%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    background-color: rgb(0, 59, 77);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+h1{
+    font-family: fantasy;
+    font-size: 50px;
+    color: rgb(207, 207, 207);
+    text-align: center;
+}
+.caixa:hover{
+    transition: 5s;
+    background-color: rgb(0, 0, 46);
+    color: rgb(167, 167, 167);
+}
+body:hover{
+    
+    transition:7s;
+    background-image: url(https://www.friendsofeurope.org/wp/wp-content/uploads/2019/06/bigstock-Planet-Earth-From-Space-Beaut-298703191-e1560939905471.jpg);
+    background-size: cover;
+}
+.imgDD {
+    align-content: center;
+    margin: 0 auto;
+    top: 45%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    height: 350px;
+    
+    
+}
